@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Costalatta Cars</string>
+    <!-- LAYOUT LABEL STRINGS -->
+    <string name="title_activity_main">Car Dealership</string>
+    <string name="instruction">Enter car purchase information.</string>
+    <string name="dollar_sign">$</string>
+    <string name="car_price">What is the price of your car?</string>
+    <string name="cash_down_payment">What is your cash down payment?</string>
+    <string name="choose_loan_term">Choose your loan term</string>
+    <string name="years3">3 years</string>
+    <string name="years4">4 years</string>
+    <string name="years5">5 years</string>
+    <string name="go_data_entry">Return to Data Entry</string>
+
+    <!-- REPORT STRINGS -->
+    <string name="loan_summary">Your Loan Summary</string>
+    <string name="loan_report_button_text">Loan Report</string>
+    <string name="enter_price">Enter price...</string>
+    <string name="enter_down_payment">Enter down payment...</string>
+    <string name="car_sticker_price">Car Sticker Price:</string>
+    <string name="down_payment">Down Payment:</string>
+    <string name="tax_amount">Tax Amount:</string>
+    <string name="total_cost">Total Cost:</string>
+    <string name="borrowed_amount">Borrowed Amount:</string>
+    <string name="interest_amount">Interest Amount:</string>
+    <string name="sales_tax_rate">Sales Tax Rate:</string>
+    <string name="monthly_payment">Monthly Payment:</string>
+    <string name="loan_term">Loan Term:</string>
+
+</resources>
